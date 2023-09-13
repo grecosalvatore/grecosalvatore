@@ -22,17 +22,16 @@
 I am a Ph.D. student at Politecnico di Torino. 🎓
 
 - 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
-- 🔭 I’m currently working on:
-  - sda 
+- 🧑🏽‍💻 I’m currently working on:
+  - Bias mitigation in NLP classifiers
+  - Concept Drift detection in NLP classifiers
+  - NLP solutions to foster Inclusive Language in Italian
+- 🔭 I previously worked on:
+  -  Explainability techniques for NLP and Computer Vision classification models  
 - 👯 I’m looking to collaborate on NLP-related topics such as Bias and Fairness in NLP, Large Language Models, and explainability
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
 
-<!--
-I am a first-year Ph.D. student at Politecnico di Torino.  
-I am the teaching assistant for [Data Science Lab: Process and Methods](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/26/data-science-lab-process-and-methods-2022-23/) and [Data Science and Database Technology](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/27/data-science-e-tecnologie-per-le-basi-di-dati-2022-2023/) courses.
-
--->
 <!--
 **grecosalvatore/grecosalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
