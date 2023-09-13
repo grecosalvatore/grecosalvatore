@@ -23,7 +23,7 @@ I am a Ph.D. student at Politecnico di Torino. 🎓
 
 - 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
 - 🔭 I’m currently working on:
-* sda 
+  - sda 
 - 👯 I’m looking to collaborate on NLP-related topics such as Bias and Fairness in NLP, Large Language Models, and explainability
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
