@@ -2,13 +2,15 @@
 ### Hi there 👋
 -->
 
+<br/>
+
 <h1 align="center">
    Hi there, I am Salvatore Greco 👋
 </h1>
 
-<!--
-<br/>
 
+<br/>
+<!--
 <p align="center">
   <a href="[https://koudounasalkis.github.io/](https://grecosalvatore.github.io/)">
     <img alt="Portfolio" title="Website" src="https://img.shields.io/badge/portfolio-2219E7.svg?&style=for-the-badge&logoColor=white">
