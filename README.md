@@ -19,6 +19,8 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+I am a Ph.D. student at Politecnico di Torino. 🎓
+
 - 💡 I am mainly interested in Natural Language Processing 📝
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
