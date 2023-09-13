@@ -20,7 +20,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- 📫 How to reach me: [mail](mailto:salvatore_greco@polito.it) or have a look at my [website](https://grecosalvatore.github.io/)
+- 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it) or have a look at my [website](https://grecosalvatore.github.io/)
 
 
 <!--
