@@ -20,6 +20,9 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+- 📫 How to reach me: [mail](mailto:salvatore_greco@polito.it) or have a look at my [website](https://grecosalvatore.github.io/)
+
+
 <!--
 I am a first-year Ph.D. student at Politecnico di Torino.  
 I am the teaching assistant for [Data Science Lab: Process and Methods](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/26/data-science-lab-process-and-methods-2022-23/) and [Data Science and Database Technology](https://dbdmg.polito.it/dbdmg_web/index.php/2022/09/27/data-science-e-tecnologie-per-le-basi-di-dati-2022-2023/) courses.
