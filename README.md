@@ -21,7 +21,7 @@
 
 I am a Ph.D. student at Politecnico di Torino. 🎓
 
-- 💡 I am mainly interested in Natural Language Processing (NLP) 📝 and Explainable Artificial Intelligence (XAI)
+- 💡 I am mainly interested in Natural Language Processing (NLP) 📝 and Explainable Artificial Intelligence (XAI) 🔍
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
 
