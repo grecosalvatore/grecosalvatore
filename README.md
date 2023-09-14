@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/salvatore-greco-8a27a5142/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   <a href="https://twitter.com/_salvatoregreco"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=d8-6Up8AAAAJ&hl=en"><img alt="Google Scholar" title="Google Scholar"src="https://img.shields.io/badge/scholar-77a9fa.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=d8-6Up8AAAAJ&hl=en"><img alt="Google Scholar" title="Google Scholar" src="https://img.shields.io/badge/scholar-77a9fa.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"></a>
   <a href="https://huggingface.co/grecosalvatore"><img alt="Huggingface Hub" title="Huggingface Hub" src="https://tinyurl.com/hf-shield"></a>
 </p>
 
