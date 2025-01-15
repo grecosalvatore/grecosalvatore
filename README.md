@@ -20,7 +20,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 I am a Ph.D. candidate at Politecnico di Torino and a visiting researcher at King's College London. 
-Previously, I was a visiting researcher at Nokia Bell Labs. 🎓
+Previously, I was a visiting researcher at Nokia Bell Labs and King's College London. 🎓
 
 - 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
 - 🧑🏽‍💻 I’m currently working on:
