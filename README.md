@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=grecosalvatore&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
-</p>
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=username&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grecosalvatore&theme=dark&background=000000)](https://git.io/streak-stats)
