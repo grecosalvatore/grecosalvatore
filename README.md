@@ -1,8 +1,3 @@
-<!--
-### Hi there 👋
--->
-
-
 <h1 align="center"> Hi there 👋, I am Salvatore Greco 🧑🏻‍💻 </h1>
 
 
