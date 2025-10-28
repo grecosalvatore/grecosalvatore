@@ -19,7 +19,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-I am a [PostDoc Researcher]((https://www.kcl.ac.uk/people/dr-salvatore-greco)) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London.
+I am a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London.
 I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778) and Research Associate at Politecnico di Torino and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
 
 - 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
