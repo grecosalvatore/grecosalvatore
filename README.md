@@ -44,7 +44,7 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
   
 
 - **Towards AI-Assisted Inclusive Language Writing in Italian Formal Communications** <br>
-  *ACM Transactions on Intelligent Systems and Technology (2025)*  🔗 [[paper]](https://dl.acm.org/doi/10.1145/3729237) <br>
+  *ACM Transactions on Intelligent Systems and Technology (2025)*  🔗 [[paper]](https://dl.acm.org/doi/10.1145/3729237) • [[code]](https://github.com/MorenoLaQuatra/inclusively) <br>
   → AI-based writing assistance system supporting humans in adopting inclusive language in Italian formal communications.
   
 
