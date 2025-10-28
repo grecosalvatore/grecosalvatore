@@ -75,7 +75,7 @@ I’m looking to collaborate on Trustworthy AI and NLP-related topics, including
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=grecosalvatore&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=grecosalvatore&theme=dark&background=000000&r=1" alt="GitHub Streak">
   </a>
 </p>
 
