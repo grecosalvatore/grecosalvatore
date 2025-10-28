@@ -49,7 +49,7 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
   
 
 - **NLPGuard: Mitigating Protected Attribute Use in NLP Classifiers** <br>
-  *ACM Conference on Computer-Supported Cooperative Work and Social Computing (2024)*  <br> 🔗 [[paper]](https://dl.acm.org/doi/10.1145/3686924) • [[code]](https://github.com/grecosalvatore/nlpguard) <br>
+  *ACM Conference on Computer-Supported Cooperative Work and Social Computing (2024)* 🔗 [[paper]](https://dl.acm.org/doi/10.1145/3686924) • [[code]](https://github.com/grecosalvatore/nlpguard) <br>
   → Fairness framework that reduces reliance on protected attributes without reducing predictive performance.  
   
 
