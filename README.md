@@ -36,7 +36,11 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
 - 👯 I’m looking to collaborate on NLP-related topics such as Bias and Fairness in NLP, Large Language Models, and explainability
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
-<h2> 📄📑 Some of my latests works  </h2>
+<h2> 📑 Some of my latests works  </h2>
+
+- [Unsupervised Concept Drift Detection From Deep Learning Representations in Real-Time](https://ieeexplore.ieee.org/document/11103500)
+- [Towards AI-Assisted Inclusive Language Writing in Italian Formal Communications](https://dl.acm.org/doi/10.1145/3729237)
+- [NLPGuard: A Framework for Mitigating the Use of Protected Attributes by NLP Classifiers](https://dl.acm.org/doi/10.1145/3686924)
 
 <!--
 **grecosalvatore/grecosalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
