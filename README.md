@@ -26,15 +26,31 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
 
 <h2> 🧑🏻‍💻 My research interests  </h2>
 
-- 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
-- 🧑🏽‍💻 I’m currently working on:
+My main research interests include Trustworthy AI, Fairness, Explainable Artificial Intelligence, and Natural Language Processing 
+
+- I’m currently working on:
+  - Uncertainty in Large Language Models
+  - Participatory Artificial Intelligence
+  - NLP for stereotypes detection and inclusive language
+
+- I previously worked on:
   - Bias mitigation in NLP classifiers
   - Concept Drift detection in NLP classifiers
   - NLP solutions to foster Inclusive Language in Italian
-- 🔭 I previously worked on:
-  -  Explainability techniques for NLP and Computer Vision classification models  
-- 👯 I’m looking to collaborate on NLP-related topics such as Bias and Fairness in NLP, Large Language Models, and explainability
-- 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
+  - Explainability techniques for NLP and Computer Vision classification models  
+
+
+<h2> 📧 Contacts and Collaborations </h2>
+
+I’m looking to collaborate on Trustworthy AI and NLP-related topics, including but not limited to: 
+- Bias and Fairness in NLP 
+- Large Language Models (LLMs)
+- Uncertainty in LLMs
+- Participatory AI 
+- Explainable AI
+- Concept Drift
+
+📫 How to reach me: send me an [email](mailto:salvatore.greco@kcl.ac.uk)
 
 <h2> 📑 Some of my latests works  </h2>
 
