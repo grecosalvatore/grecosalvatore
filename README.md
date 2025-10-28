@@ -37,7 +37,7 @@ My main research interests include Trustworthy AI, Fairness, Explainable Artific
   - Bias mitigation in NLP classifiers
   - Concept Drift detection in NLP classifiers
   - NLP solutions to foster Inclusive Language in Italian
-  - Explainability techniques for NLP and Computer Vision classification models  
+  - Explainability in NLP and Computer Vision  
 
 
 <h2> 📧 Contacts and Collaborations </h2>
