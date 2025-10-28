@@ -3,7 +3,7 @@
 -->
 
 
-<h1 align="center"> Hi there, I am Salvatore Greco 👋 </h1>
+<h1 align="center"> Hi there 👋, I am Salvatore Greco 🧑🏻‍💻 </h1>
 
 
 
@@ -19,8 +19,12 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h2> 📝 About me  </h2>
+
 I am a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London.
 I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778) and Research Associate at Politecnico di Torino and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
+
+<h2> 🧑🏻‍💻 My research interests  </h2>
 
 - 💡 I am interested in Natural Language Processing 📝, Fairness and Bias in NLP, and Explainable Artificial Intelligence 🔍
 - 🧑🏽‍💻 I’m currently working on:
@@ -32,6 +36,7 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
 - 👯 I’m looking to collaborate on NLP-related topics such as Bias and Fairness in NLP, Large Language Models, and explainability
 - 📫 How to reach me: send me an [email](mailto:salvatore_greco@polito.it)
 
+<h2> 📄📑 Some of my latests works  </h2>
 
 <!--
 **grecosalvatore/grecosalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
