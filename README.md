@@ -38,9 +38,20 @@ I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-progra
 
 <h2> 📑 Some of my latests works  </h2>
 
-- [Unsupervised Concept Drift Detection From Deep Learning Representations in Real-Time](https://ieeexplore.ieee.org/document/11103500)
-- [Towards AI-Assisted Inclusive Language Writing in Italian Formal Communications](https://dl.acm.org/doi/10.1145/3729237)
-- [NLPGuard: A Framework for Mitigating the Use of Protected Attributes by NLP Classifiers](https://dl.acm.org/doi/10.1145/3686924)
+- **Unsupervised Concept Drift Detection From Deep Learning Representations in Real-Time** <br>
+  *IEEE Transactions on Knowledge and Data Engineering (2025)* 🔗 [[paper]](https://ieeexplore.ieee.org/document/11103500) • [[code]](https://github.com/grecosalvatore/drift-lens) <br>
+  → Unsupervised framework for detecting, characterizing, and explaining drift in deep models on unstructured data  
+  
+
+- **Towards AI-Assisted Inclusive Language Writing in Italian Formal Communications** <br>
+  *ACM Transactions on Intelligent Systems and Technology (2025)*  🔗 [[paper]](https://dl.acm.org/doi/10.1145/3729237) <br>
+  → AI-based writing assistance system supporting humans in adopting inclusive language in Italian formal communications.
+  
+
+- **NLPGuard: Mitigating Protected Attribute Use in NLP Classifiers** <br>
+  *ACM Conference on Computer-Supported Cooperative Work and Social Computing (2024)*  <br> 🔗 [[paper]](https://dl.acm.org/doi/10.1145/3686924) • [[code]](https://github.com/grecosalvatore/nlpguard) <br>
+  → Fairness framework that reduces reliance on protected attributes without reducing predictive performance.  
+  
 
 <!--
 **grecosalvatore/grecosalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
