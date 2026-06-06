@@ -17,7 +17,7 @@
 <h2> 📝 About me  </h2>
 
 I am a Senior Research Associate at the [Alan Turing Institute](https://www.turing.ac.uk/science-innovation/defence-and-national-security/defence-artificial-intelligence-research-dare).
-I previously was a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778), and Research Associate at Politecnico di Torino and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
+I previously was a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London, [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778) and Research Associate at Politecnico di Torino, and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
 
 <h2> 🧑🏻‍💻 My research interests  </h2>
 
@@ -41,9 +41,9 @@ I’m looking to collaborate on Trustworthy AI and NLP-related topics, including
 - Bias and Fairness in NLP 
 - Large Language Models (LLMs)
 - Uncertainty in LLMs
-- Participatory AI 
 - Explainable AI
 - Concept Drift
+- Inclusivity and Stereotypes Detection in NLP
 
 📫 How to reach me: send me an [email](mailto:salvatore.greco@kcl.ac.uk)
 
