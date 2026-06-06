@@ -16,19 +16,19 @@
 
 <h2> 📝 About me  </h2>
 
-I am a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London.
-I previously was a [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778) and Research Associate at Politecnico di Torino and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
+I am a Senior Research Associate at the [Alan Turing Institute](https://www.turing.ac.uk/science-innovation/defence-and-national-security/defence-artificial-intelligence-research-dare).
+I previously was a [PostDoc Researcher](https://www.kcl.ac.uk/people/dr-salvatore-greco) at the [Centre for Data Futures](https://www.kcl.ac.uk/research/centre-for-data-futures), King's College London [Ph.D. Student](https://www.polito.it/en/education/phd-programmes-and-postgraduate-school/alumni?p=067778), and Research Associate at Politecnico di Torino and 2x Visiting Researcher at [Nokia Bell Labs](https://social-dynamics.net/index.html) 🎓
 
 <h2> 🧑🏻‍💻 My research interests  </h2>
 
 My main research interests include Trustworthy AI, Fairness, Explainable Artificial Intelligence, and Natural Language Processing 
 
 - I’m currently working on:
-  - Uncertainty in Large Language Models
-  - Participatory Artificial Intelligence
-  - NLP for stereotypes detection and inclusive language
+  - Uncertainty in Deep Learning
+  - Explanability in Multimodal AI systems  
 
 - I previously worked on:
+  - Uncertainty in Large Language Models
   - Bias mitigation in NLP classifiers
   - Concept Drift detection in NLP classifiers
   - NLP solutions to foster Inclusive Language in Italian
